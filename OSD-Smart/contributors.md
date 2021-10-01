@@ -96,6 +96,7 @@
 - Xiaoran
 - Yang
 - Yifan Zhang
+- Ying-Hua Lee
 - Yucheng
 - jingxu016
 - leticia velazquez
